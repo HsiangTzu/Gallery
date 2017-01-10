@@ -1,0 +1,48 @@
+@import url(http://fonts.googleapis.com/earlyaccess/notosanstc.css);
+* {
+  padding: 0;
+  margin: 0;
+  font-family: 'Noto Sans TC', sans-serif, arial;
+  text-decoration: none;
+}
+.container-fluid01 {
+  background-color: #C4E1FF;
+}
+.container-fluid02 {
+  background-color: #D6D6AD;
+}
+.bg01 {
+  background-image: url(images/bg01.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 190vh;
+}
+.bg02 {
+  background-image: url(images/bg02.jpg);
+  background-position: center;
+  background-size: cover;
+  height: 190vh;
+}
+.h01 {
+  color: #000093;
+}
+.h03 {
+  color: #004B97;
+}
+.h11 {
+  color: #5B5B00;
+}
+.h13 {
+  color: #977C00;
+}
+.portfolio-item {
+  margin-top: 5vh;
+}
+.f1 footer {
+  background-color: #C4E1FF;
+  height: 5vh;
+}
+.f2 footer {
+  background-color: #D6D6AD;
+  height: 5vh;
+}
